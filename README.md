@@ -1,5 +1,4 @@
 # 🧟‍♂️ ZomTom - Tower Defense
-
 ZomTom és un joc de defensa de torres amb temàtica de zombis, programat en JavaScript pur i HTML5 Canvas. El jugador controla un heroi que ha de defensar-se d'ones de zombis utilitzant diferents armes i estratègies.
 
 
@@ -21,14 +20,12 @@ README.md
 
 
 ## 🎮 Controls
-
 - **Mouse click esquerre**: disparar
 - **Roda del ratolí** o **tecles 1-2-3**: canviar arma
 
 
 
 ## 🧠 Mecàniques previstes
-
 - Varietat de zombis amb velocitats i habilitats diferents
 - Heroi a escollir (home o dona)
 - Fons amb elements grafics
@@ -37,7 +34,6 @@ README.md
 
 
 ## 🧱 Tecnologies utilitzades
-
 - HTML5
 - CSS3
 - JavaScript (sense frameworks)
@@ -46,7 +42,6 @@ README.md
 
 
 ## ⚙️ Estat actual
-
 - ✅ Esquema inicial del projecte 
 - ✅ Sprites
 - 🚧 Motor de joc (ILRU) en desenvolupament
