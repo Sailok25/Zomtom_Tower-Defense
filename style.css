@@ -6,6 +6,8 @@ body {
   align-items: center;
   height: 100vh;
 }
+
 canvas {
-  background-color: #add8e6; /* blau clar */
+  background: linear-gradient(to bottom, #51bce6, #85d1d9, #dbebed);
+  display: block;
 }
