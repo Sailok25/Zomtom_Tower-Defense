@@ -41,4 +41,4 @@ export class Zombi {
       this.estado = 'muerto';
     }
   }
-}
+} 
