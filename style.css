@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  background: #000; /* fondo negro */
+  background: #000; /* Fondo de la pagina (negro)*/
   display: flex;
   justify-content: center;
   align-items: center;
@@ -8,7 +8,6 @@ body {
 }
 
 canvas {
-  /* Gradiente vertical dentro del canvas */
-  background: linear-gradient(to bottom, #51bce6, #85d1d9, #dbebed);
+  background: linear-gradient(to bottom, #51bce6, #85d1d9, #dbebed); /* Gradiente del cielo */
   display: block;
 }
